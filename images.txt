@@ -5,4 +5,5 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-lobehub/lobe-chat:1.107.2
+mcr.microsoft.com/devcontainers/go:1.21-bullseye
+mcr.microsoft.com/devcontainers/go:1.21-bookworm
